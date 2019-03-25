@@ -1,5 +1,6 @@
 const getters = {
-  game: state => state.game
+  game: state => state.game,
+  party: state => state.party
 };
 
 export default getters;
